@@ -1,4 +1,5 @@
-# WallabyTest
+# Test Angular 7 site
+See https://github.com/wallabyjs/ngCliWebpackSample/issues/25
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.
 
